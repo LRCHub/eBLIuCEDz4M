@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "Sweet Fancy Chu-n",
+  "base_artist": "わーすた",
+  "createdAt": "2026-02-19T07:21:07.035918Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Sweet Fancy Chu-n",
+      "artist": "わーすた",
+      "has_synced": false,
+      "path": "select/pl_01_Sweet_Fancy_Chu-n_わーすた.txt"
+    }
+  ]
+}
